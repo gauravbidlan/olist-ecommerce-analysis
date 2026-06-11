@@ -19,7 +19,7 @@ wellness D2C brands.
 | Total Revenue | $16M |
 | Total Orders | 99,441 |
 | Avg Order Value | $154 |
-| Repeat Customer Rate | 3.34% |
+| Repeat Customer Rate | 3.12% |
 | Late Delivery Rate | 8.11% |
 | Top Category | Health & Beauty |
 | Peak Revenue Month | November 2017 |
@@ -28,7 +28,7 @@ wellness D2C brands.
 
 ## Business Insights
 
-- **Retention Gap** — Only 3.11% repeat customer rate signals 
+- **Retention Gap** — Only 3.12% repeat customer rate signals 
 high one-time purchase behaviour. A loyalty program or 
 subscription model could significantly improve customer LTV.
 
