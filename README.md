@@ -28,7 +28,7 @@ wellness D2C brands.
 
 ## Business Insights
 
-- **Retention Gap** — Only 3.34% repeat customer rate signals 
+- **Retention Gap** — Only 3.11% repeat customer rate signals 
 high one-time purchase behaviour. A loyalty program or 
 subscription model could significantly improve customer LTV.
 
