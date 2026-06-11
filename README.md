@@ -2,7 +2,7 @@
 D2C E-Commerce Analytics | MySQL + Power BI | 100K+ Orders
 # D2C E-Commerce Analytics | MySQL + Power BI
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Project Overview
 Analyzed 100,000+ orders from a Brazilian e-commerce platform 
